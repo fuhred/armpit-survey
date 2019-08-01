@@ -47,7 +47,7 @@ armpit smell asymmetry.)
 
 <!-- end list -->
 
-    {r css, echo=FALSE}
+    {r css, include=F}
     
     st_css()                              # This is a must; without it, expect odd layout,
                                           # especially with dfSummary()
