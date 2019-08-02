@@ -45,13 +45,6 @@ armpit smell asymmetry.)
     respondents. Practically though, this issue does not affect the
     primary analysis, which only examined armpit stinkiness asymmetry.
 
-<!-- end list -->
-
-    {r css, include=F}
-    
-    st_css()                              # This is a must; without it, expect odd layout,
-                                          # especially with dfSummary()
-
 ## Table of the Full Sample
 
     ## Cross-Tabulation, Column Proportions  
