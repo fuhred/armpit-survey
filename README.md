@@ -21,6 +21,23 @@ armpit smell asymmetry.)
 
 ![](figures/2.png)
 
+## Method
+
+Here are the two main questions I asked:
+
+“Which armpit smells more?”
+
+  - Left
+  - Right
+  - About the same
+  - Not sure
+
+“Which is your dominant hand?”
+
+  - Left hand
+  - Right hand
+  - Ambidextrous
+
 ## Other Notes
 
   - Handedness did not change the proportion of people who armpits
